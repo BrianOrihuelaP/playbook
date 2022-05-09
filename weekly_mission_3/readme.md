@@ -6,7 +6,7 @@ Proyectos desarrollados en la semana 3:
 
 | Proyecto | Práctica | Link al repo |
 | ------------- |:-------------:| -----:|
-|`my_launchx_app`|1|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
+|`my_launchx_app`|1|[Link al repo](https://github.com/BrianOrihuelaP/my_launchx_app-node-and-jest-)|
 |`spiderverse`|2|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
 |`twitter`|3, 4, 5|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
 |`express_basic`|6|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
