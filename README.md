@@ -8,12 +8,14 @@ En este repositorio encontrarás distintas practicas que se elaboraron para el c
 
 Weekly Mission 1 => Intro a Node-JS
 
-<img width="620" alt="image" src="https://s3-us-west-2.amazonaws.com/devcodepro/media/tutorials/instalacion-de-nodejs-en-ubuntu-t1.jpg">
-
-
   *Creación de objetos, importación y exportación de modulos
+  
   *Creación de clases, constructores, uso de this
+  
   *Creación de metodos
+  
+  
+<img width="420" alt="image" src="https://s3-us-west-2.amazonaws.com/devcodepro/media/tutorials/instalacion-de-nodejs-en-ubuntu-t1.jpg">
   
 
 
